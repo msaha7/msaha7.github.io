@@ -6,7 +6,7 @@
     </head>
      
     <body>
-        <img src="EARTH.gif"
+        <img src="EARTH.png"
         
         <style>
         </style>
