@@ -2,13 +2,13 @@
 
 <html>
     <head>
-        <title>WEB PAGE WITH CSS</title>
+        <title></title>
     </head>
      
     <body>
         <img src="EARTH.gif"
         
-        
+        <style>
         </style>
     </body>
  </html>
